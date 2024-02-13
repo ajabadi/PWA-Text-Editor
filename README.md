@@ -1,4 +1,4 @@
-<img width="1285" alt="Screen Shot 2024-02-12 at 19 43 08" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/d90b5633-c7cb-4fcc-9a72-d5b7a48248e4"># PWA Text Editor
+# PWA Text Editor 
 
 ## Description
 
