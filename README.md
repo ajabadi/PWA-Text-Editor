@@ -27,16 +27,16 @@ As a developer,I want to create notes or code snippets with or without an intern
 2. Then the IndexedDB has immediately created a database storage
    Enter content and subsequently click off of the DOM window, the text editor has been saved with IndexedDB
    Reopening the text editor after closing it, the content in the text editor has been retrieved from our IndexedDB
-![Screen Shot 2024-02-12 at 21 00 44](https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/5a7c271d-8bd4-42eb-bfc8-55a8f8008d79)
+   ![Screen Shot 2024-02-12 at 21 00 44](https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/5a7c271d-8bd4-42eb-bfc8-55a8f8008d79)
 
 
 3. Clicking on the Install button,the web application will be downloaded as an icon on my desktop
-<img width="571" alt="Screen Shot 2024-02-12 at 21 38 56" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/58963eb1-749e-41cc-ae15-967df903af51">
+   <img width="571" alt="Screen Shot 2024-02-12 at 21 38 56" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/58963eb1-749e-41cc-ae15-967df903af51">
 
 4. Loading the web application should have a registered service worker using workbox
    Then registering a service worker should display static assets pre cached upon loading along with subsequent pages and static assets
-<img width="1292" alt="Screen Shot 2024-02-12 at 21 29 02" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/a9b1841a-40fa-4609-9e03-a635d5850883">
-<img width="1308" alt="Screen Shot 2024-02-12 at 21 35 09" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/4138fc1f-ab00-4ac2-b14a-8a130c711685">
+   <img width="1292" alt="Screen Shot 2024-02-12 at 21 29 02" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/a9b1841a-40fa-4609-9e03-a635d5850883">
+   <img width="1308" alt="Screen Shot 2024-02-12 at 21 35 09" src="https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/4138fc1f-ab00-4ac2-b14a-8a130c711685">
 
 5. The web application is [deploy](https://text-editor-9gj3.onrender.com) to Render, it should have proper build scripts for a webpack application
    ![Screen Shot 2024-02-12 at 19 39 29 (2)](https://github.com/ajabadi/PWA-Text-Editor/assets/145517793/4480cdae-e20b-4bef-ae80-3324b688cba9)
